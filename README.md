@@ -4,4 +4,4 @@ Data Cleaning & Preparation: The dataset was converted into a structured Excel t
 Data Analysis & Visualization: The cleaned data was analyzed using PivotTables, charts, and slicers to identify sales, profit, customer, and geographical trends. Visualizations included funnel, line, area, pie, bar, and map charts covering sub-category sales, profit over time, monthly sales, top customers, sales by state, and customer count. These insights were consolidated into an interactive dashboard for dynamic data exploration.
 Lastly, insights from the analysis were summarised clearly and concisely to interpret and communicate the results of the analysis.
 
-![Dashboard](Dashboard.jpg)
+![Dashboard](dashboard.PNG)
